@@ -18,3 +18,5 @@
 <br/>
   
   Eu gosto muito de aprender e me inovar, e é por isso que sou apaixodo por tecnologia!
+
+   ![Snake animation](https://github.com/renatomarciano/renatomarciano/blob/output/github-contribution-grid-snake.svg)
