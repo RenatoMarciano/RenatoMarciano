@@ -1,4 +1,4 @@
-## Olá, eu sou a Renato Marciano! 🙏🏿
+## Olá, eu sou o Renato Marciano! 🙏🏿
 
 <div align="center">  
   <a href="https://github.com/RenatoMarciano">
